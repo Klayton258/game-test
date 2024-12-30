@@ -1,0 +1,11 @@
+/webgl.framework.js.br
+  Content-Encoding: br
+  Content-Type: application/javascript
+
+/webgl.data.br
+  Content-Encoding: br
+  Content-Type: application/octet-stream
+
+/webgl.wasm.br
+  Content-Encoding: br
+  Content-Type: application/wasm
